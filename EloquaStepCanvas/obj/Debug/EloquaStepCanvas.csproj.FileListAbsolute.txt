@@ -1,0 +1,28 @@
+D:\189156\All_Philips_POC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+D:\189156\All_Philips_POC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+D:\189156\All_Philips_POC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
+D:\189156\All_Philips_POC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb
+D:\189156\All_Philips_POC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.csprojResolveAssemblyReference.cache
+D:\Study Materials\StudyMaterials_Eloqua\POCs\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+D:\Study Materials\StudyMaterials_Eloqua\POCs\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+D:\Study Materials\StudyMaterials_Eloqua\POCs\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.csprojResolveAssemblyReference.cache
+D:\Study Materials\StudyMaterials_Eloqua\POCs\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
+D:\Study Materials\StudyMaterials_Eloqua\POCs\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb
+D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
+D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\ResolveAssemblyReference.cache
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\log4net.dll
+C:\My data\Eloqua\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\log4net.xml
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\log4net.dll
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\bin\log4net.xml
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\ResolveAssemblyReference.cache
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
+D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Eloqua" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/EloquaStepCanvas.dll" publishTime="06/25/2013 12:21:44" />
+    <file relUrl="bin/EloquaStepCanvas.pdb" publishTime="06/25/2013 12:21:44" />
+    <file relUrl="bin/log4net.dll" publishTime="12/27/2012 14:32:12" />
+    <file relUrl="Web.config" publishTime="06/25/2013 12:24:10" />
+    <file relUrl="log4net.config" publishTime="06/24/2013 20:16:36" />
+    <file relUrl="bin/log4net.xml" publishTime="12/27/2012 14:32:14" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="06/24/2013 20:09:46" />
+    <file relUrl="Default.aspx" publishTime="06/24/2013 20:09:44" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="06/24/2013 20:09:46" />
+    <file relUrl="Global.asax" publishTime="06/24/2013 20:09:44" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="06/24/2013 20:09:46" />
+    <file relUrl="DownloadLog.aspx" publishTime="06/25/2013 12:21:43" />
+  </publishProfile>
+</publishData>
