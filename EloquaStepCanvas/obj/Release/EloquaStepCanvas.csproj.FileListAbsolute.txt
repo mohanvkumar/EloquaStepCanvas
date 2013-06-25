@@ -2,3 +2,9 @@ D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
 D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
 D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Release\EloquaStepCanvas.dll
 D:\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Release\EloquaStepCanvas.pdb
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\log4net.xml
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Release\EloquaStepCanvas.dll
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Release\EloquaStepCanvas.pdb

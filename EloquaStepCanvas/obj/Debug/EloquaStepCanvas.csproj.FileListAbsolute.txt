@@ -26,3 +26,9 @@ D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepC
 D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\ResolveAssemblyReference.cache
 D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
 D:\Personnel\Software\Software PIC\EloquaStepCanvas\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.dll
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\EloquaStepCanvas.pdb
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\bin\log4net.xml
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.dll
+C:\Users\ING03605\Documents\GitHub\EloquaStepCanvas\EloquaStepCanvas\obj\Debug\EloquaStepCanvas.pdb
