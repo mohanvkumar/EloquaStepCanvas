@@ -13,5 +13,10 @@ namespace EloquaStepCanvas
         {
             hypDownloadLog.NavigateUrl = Server.MapPath("PhilipsEloqua.log");
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Response.Write("Step Id : " + Convert.ToString(Request.QueryString["StepID"]));
+        }
     }
 }
