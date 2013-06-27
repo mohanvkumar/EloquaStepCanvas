@@ -11,7 +11,7 @@
     <div>
     
         <asp:HyperLink ID="hypDownloadLog" runat="server">Download</asp:HyperLink>
-    
+        <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
     </div>
     </form>
 </body>
